@@ -112,7 +112,7 @@ justify-content: left;
 
 /*Adding the images for the other projects and making sure they are displayed in full*/
 .Facebook {
-    background-image: url("../images/Facebook.png");
+    background-image: url("../images/Movies.png");
     min-height: 250px;
     background-size: 100% 100%;
 }
